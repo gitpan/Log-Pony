@@ -41,7 +41,7 @@
    "provides" : {
       "Log::Pony" : {
          "file" : "lib/Log/Pony.pm",
-         "version" : "v1.0.0"
+         "version" : "v1.0.1"
       }
    },
    "release_status" : "stable",
@@ -50,5 +50,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "v1.0.0"
+   "version" : "v1.0.1"
 }

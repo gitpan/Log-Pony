@@ -20,11 +20,11 @@ no_index:
 provides:
   Log::Pony:
     file: lib/Log/Pony.pm
-    version: v1.0.0
+    version: v1.0.1
 requires:
   Class::Accessor::Lite: 0
   parent: 0
   perl: 5.008005
 resources:
   license: http://dev.perl.org/licenses/
-version: v1.0.0
+version: v1.0.1
